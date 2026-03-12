@@ -1,0 +1,4 @@
+name: GuildSupplyDrop
+version: 1.0
+main: pl.twojanazwa.Main
+api-version: 1.20
